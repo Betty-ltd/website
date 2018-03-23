@@ -4,5 +4,5 @@ Here is the new text in the file.
 
 Hre is the text for rebase.
 
-here is text in conflict 2
+test in conflict
 
