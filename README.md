@@ -4,4 +4,5 @@ Here is the new text in the file.
 
 Hre is the text for rebase.
 
+test in conflict
 
